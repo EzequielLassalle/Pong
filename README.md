@@ -1,2 +1,2 @@
 # Pong
-Juego Pong hecho con HTML, CSS y Javascript
+Programe el Pong con HTML, CSS y Javascript
